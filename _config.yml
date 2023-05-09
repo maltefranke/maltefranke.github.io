@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Malte Franke"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "ML + Optimization + Chemistry = Profit"
   location         : 
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/maltefranke"
+  github           : "maltefranke"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/malte-franke/"
+  linkedin         : "malte-franke"
   orcid            : 
   pinterest        :
   soundcloud       :
