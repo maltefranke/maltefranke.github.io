@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. Engineering, RWTH, 2022-2024 (expected)
+* Exchange Chemical Engineering, EPFL, 2022-2023
+* B.Sc. Mechnanical Engineering, RWTH Aachen, 2018-2022
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I can serve you some good food and lead a games night
