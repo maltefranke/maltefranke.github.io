@@ -13,7 +13,7 @@ Education
 ======
 * M.Sc. Engineering, RWTH, 2022-2024 (expected)
 * Exchange Chemical Engineering, EPFL, 2022-2023
-* B.Sc. Mechnanical Engineering, RWTH Aachen, 2018-2022
+* B.Sc. Mechanical Engineering, RWTH Aachen, 2018-2022
 
 Research experience
 ======
@@ -36,15 +36,6 @@ Research experience
   * <ins> "Global optimization of chemical processes with an automated bound tightening algorithm”. </ins>
   * RWTH Chair of Process Systems Engineering, Prof. Alexander Mitsos
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -62,7 +53,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* I can serve you some good food and lead a games night
