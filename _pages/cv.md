@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* M.Sc. Engineering, RWTH, 2022-2024 (expected)
+* M.Sc. Engineering, RWTH Aachen, 2022-2024 (expected)
 * Exchange Chemical Engineering, EPFL, 2022-2023
 * B.Sc. Mechanical Engineering, RWTH Aachen, 2018-2022
 
 Research experience
 ======
-* **Project student**, February 2023 - present
+* **Research intern**, July 2023 - present
+  * <ins> “Geometric deep learning for generalized chemical graph prediction” </ins>
+  * ETH Laboratory of Digital Chemistry, Prof. Kjell Jorner
+    
+* **Project student**, February 2023 - July 2023
   * <ins> “Advancing reaction prediction models on challenging literature chemical datasets” </ins>
   * EPFL Laboratory of Artificial Chemical Intelligence, Prof. Philippe Schwaller
 
