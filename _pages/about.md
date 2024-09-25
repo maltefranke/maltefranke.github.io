@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Deep learning for molecular science"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Malte! 
-During my B.Sc. in Engineering at RWTH Aachen I developed a strong interest in studying deep learning methods and their application to chemistry. 
-I have since worked on a manifold of related projects, including predicting molecular (fuel and drug properties, solubility prediction, NMR prediction) and computed reaction properties as well as predicting the outcome of reactions with the Molecular Transformer and Graph2SMILES. 
-I have developed a strong interest for geometric deep learning, where we can "bake in" strong biases that significantly help with data efficiency and model performance.  
+Hi! 
+I'm a final year M.Sc. student at RWTH Aachen, currently writing my Master's thesis in the Learning Matter Lab at MIT, where I'm supervised by Rafael Gomez-Bombarelli.
+In my thesis, I develop equivariant flow-matching models for multi-molecule docking of organic molecules in nanoporous materials.
+Before, I worked with Kjell Jorner at ETH Zurich, Philippe Schwaller and Clemence Corminboeuf at EPFL and Alexander Mitsos at RWTH Aachen. 
 
-I'm very grateful to have worked with Puck Van Gerwen and Prof. Clemence Corminboeuf at LCMD, EPFL as well as Andres CM Bran, Victor Sabanza Gil and Prof. Schwaller at LIAC, EPFL during my academic exchange in Switzerland. 
-Currently, I'm a research intern at DCL, ETH Zurich supervised by Vignesh Ram Somnath and Prof. Kjell Jorner where I investigate graph neural networks for chemical bond prediction. 
+I'm looking for PhD positions at the interface of AI and molecular science starting in summer 2025! 
+In my research, I want to accelerate the design and analysis of molecular systems, using generative modelling and geometric deep learning.
+My ideal research environment is stimulating and cooperative, with enough freedom for me to immerse myself in my own research ideas.
+Please reach out if you know of any opportunities or are interested in collaborating!
 
-Feel free to reach out if you're interested in collaborating!
+Research philosophy: 
+Solving challenging problems with creative, and unconventional approaches is my main motivation in doing research.
+I’m inspired by new perspectives gained during the problem-solving process, along with the transferable skills learned. 
+The engineering approach - pragmatically deconstructing problems into smaller, achievable subgoals based on available information - has been very effective for me and resonates very well with my personality.
