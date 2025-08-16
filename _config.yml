@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Malte
+middle_name:
+last_name: Franke
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -195,6 +195,9 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+
 
 keep_files:
   - CNAME
