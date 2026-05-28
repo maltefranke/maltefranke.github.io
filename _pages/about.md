@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming CS PhD student at ETH Zürich
+subtitle: CS PhD student at ETH Zürich
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an incoming PhD student in Machine Learning at ETH Zürich advised by Andreas Krause and Kjell Jorner. 
+I'm a PhD student in Machine Learning at ETH Zürich advised by Andreas Krause and Kjell Jorner. 
 I will also be affiliated with the European Laboratory for Learning and Intelligent Systems (ELLIS) as a PhD fellow, co-advised by José Miguel Hernández-Lobato at the University of Cambridge. 
 In my research, I will develop new generative machine learning methods for chemical discovery.
 
