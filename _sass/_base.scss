@@ -383,6 +383,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Site is dark-mode-only; the theme toggle is hidden.
+.toggle-container {
+  display: none !important;
+}
+
 #light-toggle,
 #search-toggle {
   padding: 0;
