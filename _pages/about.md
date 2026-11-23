@@ -6,7 +6,7 @@ subtitle: CS PhD student at ETH Zürich
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: malte_head.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
